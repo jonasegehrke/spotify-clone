@@ -1,11 +1,9 @@
 {
-  "homepage": "http://jonasegehrke.github.io/spotify-clone",
   "private": true,
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "dev": "next dev",
     "build": "next build",
+    "export":"next export",
     "start": "next start"
   },
   "dependencies": {
