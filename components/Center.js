@@ -68,7 +68,6 @@ function Center() {
           alt=""
         />
         <div>
-            <p>PLAYLIST</p>
             <h1 className='text-2xl md:text-3xl xl:text-5xl font-bold'>{playlist?.name}</h1>
         </div>
       </section>
